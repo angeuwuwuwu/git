@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 31f48f890d4c02242be532b896b7e4b4
+  productGUID: d1f6deb810dc4494da2e9346eee7b019
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: unityCours
+  productName: git
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -675,14 +675,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: unityCours
+  metroPackageName: git
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: unityCours
+  metroApplicationDescription: git
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -752,12 +752,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: be6726b2-9f49-4f64-9d7c-a44dac3b8686
+  cloudProjectId: 5b6e7125-6a44-45f3-b812-70a2319e0418
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: unityCours
+  projectName: git
   organizationId: ventiange
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
